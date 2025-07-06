@@ -1,2 +1,0 @@
-# chaiaurbackend
-Practice project
